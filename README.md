@@ -4,7 +4,7 @@ Frontend Mentor Challenge
 
 <div align="center">
 
-![(https://jenacarry.github.io/qr-code-component/)](assets/images/page.png)
+![](assets/images/page.png)
 
 </div>
 
