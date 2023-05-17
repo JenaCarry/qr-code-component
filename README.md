@@ -44,7 +44,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [](#)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -53,13 +52,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Run the project](#run-the-project)
 
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
