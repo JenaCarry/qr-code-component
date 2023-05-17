@@ -32,8 +32,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<br>
-
 <h2>Links</h2>
 
 - Solution URL: [QR code component | Frontend Mentor](https://www.frontendmentor.io/solutions/css-grid-9FwhLtRMFF)
@@ -54,8 +52,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Author](#author)
   - [Run the project](#run-the-project)
 
-<br>
-
 ## Overview
 
 ### The challenge
@@ -69,8 +65,6 @@ Users should be able to:
 
 ![](./assets/images/screenshot.png)
 
-<br>
-
 ## My process
 
 ### Built with
@@ -79,20 +73,14 @@ Users should be able to:
 - Tailwind CSS
 - Mobile-first workflow
 
-<br>
-
 ## Useful resources
 
 - [Tailwind CSS](https://tailwindcss.com/)
-
-<br>
 
 ## Author
 
 - Frontend Mentor - [@JenaCarry](https://www.frontendmentor.io/profile/JenaCarry)
 - LinkedIn - [Jean Dias](https://www.linkedin.com/in/jean-dias-0900a1260/)
-
-<br>
 
 ## Run the project
 
