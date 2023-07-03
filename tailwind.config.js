@@ -1,18 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./*.{html,js}"],
+  content: [
+    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
   theme: {
     extend: {
       colors: {
-        "bg-color": "#d6e2f0",
-        "h1-color": "#1f3251",
-        "p-color": "#7b879d",
-      },
-      fontFamily: {
-        outfit: '"Outfit", sans-serif',
-      },
-      fontSize: {
-        pSize: "0.9375rem",
+        primary: "hsl(212, 45%, 89%)",
+        "title-color": "hsl(218, 44%, 22%)",
+        "paragraph-color": "hsl(220, 15%, 55%)",
       },
     },
   },

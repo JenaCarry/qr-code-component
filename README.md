@@ -26,7 +26,7 @@
 
 <div align="center">
 
-  ![](./assets/images/desktop-preview.jpg)
+![](./public/desktop-preview.jpg)
 
 </div>
 
@@ -55,7 +55,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/images/screenshot.png)
+![](./public/screenshot.jpg)
 
 ## My process
 
@@ -64,10 +64,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - Tailwind CSS
 - Mobile-first workflow
+- React
+- Net.js
 
 ## Useful resources
 
 - [Tailwind CSS](https://tailwindcss.com/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## Author
 
@@ -81,4 +85,10 @@ To run the client, you need to run the following command:
 ```bash
 npm install
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
