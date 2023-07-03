@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <h2>Links</h2>
 
 - Solution URL: [QR code component | Frontend Mentor](https://www.frontendmentor.io/solutions/css-grid-9FwhLtRMFF)
-- Live Site URL: [https://jenacarry.github.io/qr-code-component/](https://jenacarry.github.io/qr-code-component/)
+- Live Site URL: [https://qr-code-component-bay-six.vercel.app/](https://qr-code-component-bay-six.vercel.app/)
 
 <br>
 
