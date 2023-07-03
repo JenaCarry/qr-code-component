@@ -13,7 +13,7 @@
   <br>
 
   <div align="center">
-    <a href="https://jenacarry.github.io/qr-code-component/">View Demo</a>
+    <a href="https://qr-code-component-bay-six.vercel.app/">View Demo</a>
     -
     <a href="https://github.com/JenaCarry/qr-code-component/issues">Report Bug</a>
     -
