@@ -10,7 +10,7 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "Frontend Mentor | QR code component",
   description: "Page built for a Frontend Mentor challenge",
-  authors: [{ name: "Jena Carry" }],
+  authors: { name: "Jena Carry" },
   keywords: [
     "Frontend Mentor",
     "Frontend",
@@ -21,6 +21,7 @@ export const metadata: Metadata = {
     "HTML",
     "CSS",
     "Tailwindcss",
+    "TypeScript",
     "React",
     "Next.js",
     "Responsive",
